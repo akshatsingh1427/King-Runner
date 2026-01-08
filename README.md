@@ -40,7 +40,7 @@ This project intentionally avoids feature complexity and instead concentrates on
 - Clear start and finish points
 - Short **150-meter** handcrafted level
 
-The game is **level-based**, not endless.
+The game is **level-based**.
 
 ---
 
