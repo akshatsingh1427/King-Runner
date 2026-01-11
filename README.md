@@ -25,7 +25,7 @@
 
 ## Overview
 
-**King Runner** is a focused **prototype** built to validate the core gameplay mechanics of the upcoming project **Fun Bros**.  
+**King Runner** is a focused **prototype** built to validate the core gameplay mechanics of the upcoming project Fun Bros.  
 It emphasizes **movement, timing, and level flow** through a short, finite running level.
 
 This project intentionally avoids feature complexity and instead concentrates on **strong fundamentals**.
