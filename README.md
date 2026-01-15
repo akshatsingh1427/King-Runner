@@ -68,7 +68,7 @@ The game is **level-based**.
  **Prototype Stage**
 
 This version represents an early gameplay proof-of-concept.  
-Future updates may include enemies, collectibles, sound design, UI polish, and expanded levels.
+Future updates may include enemies, collectibles, sound design, UI polish, and expanded levels
 
 ---
 
